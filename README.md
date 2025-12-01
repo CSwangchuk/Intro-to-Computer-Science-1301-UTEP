@@ -1,6 +1,6 @@
 # Intro to Computer Science – CS1301 (UTEP)
 
-This repository contains all programming labs, assignments, and practice problems completed for **CS 1301 – Intro to Computer Science** at The University of Texas at El Paso.  
+This repository contains all programming major comprehensive labs completed for **CS 1301 – Intro to Computer Science** at The University of Texas at El Paso.  
 The projects demonstrate foundational skills in **Java**, including problem-solving, algorithms, and object-oriented programming.
 
 ---
