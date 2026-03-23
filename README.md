@@ -21,7 +21,7 @@ CS1301 introduces fundamental programming concepts using Java. Throughout the se
 ---
 ## 🧪 Comprehensive Labs Summary
 
-### ✔ CL1 – Java Basics & Problem Solving
+### ✔ CL1 – Java Basics & Problem Solving(Miner Ticketing System)
 - Practiced input/output with `Scanner`  
 - Performed calculations using variables and operators  
 - Focused on formatting, user prompts, and simple logic  
